@@ -91,3 +91,19 @@ CREATE TABLE MovieAwards (
     FOREIGN KEY (AwardID) REFERENCES Awards(AwardID),
     PRIMARY KEY (MovieID, AwardID)
 );
+
+
+
+-- 添加一个trigger
+DELIMITER //
+CREATE TRIGGER before_user_delete
+BEFORE DELETE ON Users FOR EACH ROW
+BEGIN
+    DELETE FROM Reviews WHERE UserID = OLD.UserID;
+END; //
+DELIMITER ;
+
+
+-- SHOW TRIGGERS
+
+-- DROP TRIGGER before_user_delete;
