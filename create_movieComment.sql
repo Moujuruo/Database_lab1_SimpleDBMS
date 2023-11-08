@@ -107,3 +107,14 @@ DELIMITER ;
 -- SHOW TRIGGERS
 
 -- DROP TRIGGER before_user_delete;
+
+-- 创建视图
+CREATE VIEW TopMovies AS
+SELECT MovieID, Title, BoxOffice
+FROM Movies
+ORDER BY BoxOffice DESC
+LIMIT 10;
+
+
+-- 创建索引
+CREATE INDEX idx_BoxOffice ON Movies (BoxOffice);
