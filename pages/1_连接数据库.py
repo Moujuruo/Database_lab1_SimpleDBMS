@@ -1,11 +1,11 @@
 # 这个界面实现streamlit的数据库连接功能 mysql
 import streamlit as st
 import pymysql
-# import foo
 
 st.set_page_config(
     page_title="连接数据库",
     page_icon="🎬",
+    layout="wide"
 )
 
 # 在页面中（不是边栏）建立几个输入框，输入host, port, user, password, db
