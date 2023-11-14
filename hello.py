@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(
     page_title="MovieComment",
     page_icon="🎬",
-    layout="wide"
+    # layout="wide"
 )
 
 st.title('影评数据库管理系统 🎬')
