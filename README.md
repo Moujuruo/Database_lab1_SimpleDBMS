@@ -30,4 +30,4 @@ streamlit run hello.py
 |    |—— 5_常用查询.py
 ```
 ## Demo
-![image text](https://github.com/******/dbscan_clustering_algorithm/blob/master/data/dbscan_performance_comparison.png "DBSCAN Performance Comparison")
+![image text](https://github.com/Moujuruo/Database_lab1_SimpleDBMS/blob/main/demo/first_page.png "first_page")
