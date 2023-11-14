@@ -33,3 +33,7 @@ streamlit run hello.py
 ![first_page](https://github.com/Moujuruo/Database_lab1_SimpleDBMS/blob/main/demo/first_page.png "first_page")
 ![search](https://github.com/Moujuruo/Database_lab1_SimpleDBMS/blob/main/demo/search.png "search")
 ![show_table](https://github.com/Moujuruo/Database_lab1_SimpleDBMS/blob/main/demo/show_table.png "show_table")
+
+## ER
+
+![ER](https://github.com/Moujuruo/Database_lab1_SimpleDBMS/blob/main/ER%E5%9B%BE.jpg "ER")
