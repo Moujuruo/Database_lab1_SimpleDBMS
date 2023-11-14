@@ -30,4 +30,6 @@ streamlit run hello.py
 |    |—— 5_常用查询.py
 ```
 ## Demo
-![image text](https://github.com/Moujuruo/Database_lab1_SimpleDBMS/blob/main/demo/first_page.png "first_page")
+![first_page](https://github.com/Moujuruo/Database_lab1_SimpleDBMS/blob/main/demo/first_page.png "first_page")
+![search](https://github.com/Moujuruo/Database_lab1_SimpleDBMS/blob/main/demo/search.png "search")
+![show_table](https://github.com/Moujuruo/Database_lab1_SimpleDBMS/blob/main/demo/show_table.png "show_table")
