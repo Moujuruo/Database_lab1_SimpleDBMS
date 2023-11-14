@@ -15,7 +15,6 @@ It's my first time to use streamlit, so the code may be stupid. However, it can 
 streamlit run hello.py
 ```
 
-
 ## Directory Hierarchy
 ```
 |—— .gitignore
@@ -29,5 +28,6 @@ streamlit run hello.py
 |    |—— 3_修改表内容.py
 |    |—— 4_删除表内容.py
 |    |—— 5_常用查询.py
-|—— streamlitdemo.py
 ```
+## Demo
+![image text](https://github.com/******/dbscan_clustering_algorithm/blob/master/data/dbscan_performance_comparison.png "DBSCAN Performance Comparison")
