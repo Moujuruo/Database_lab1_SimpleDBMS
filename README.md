@@ -24,8 +24,10 @@ streamlit run hello.py
 |—— create_movieComment.sql
 |—— hello.py
 |—— pages
-|    |—— 1_connect_database.py
+|    |—— 1_连接数据库.py
 |    |—— 2_展示表内容.py
 |    |—— 3_修改表内容.py
+|    |—— 4_删除表内容.py
+|    |—— 5_常用查询.py
 |—— streamlitdemo.py
 ```
